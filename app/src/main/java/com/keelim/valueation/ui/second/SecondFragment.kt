@@ -1,4 +1,4 @@
-package com.keelim.valueation.ui
+package com.keelim.valueation.ui.second
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
